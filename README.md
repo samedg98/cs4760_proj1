@@ -1,5 +1,4 @@
-# cs4760_proj1
-Assignment 1: Linux System Calls and Library Functions
+# cs4760 Project 1
 
 # Samed Ganibegovic
 # Operating Systems CS4760
