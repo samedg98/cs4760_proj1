@@ -1,4 +1,4 @@
-# cs4760 Project 1
+# Project 1
 
 # Samed Ganibegovic
 # Operating Systems CS4760
