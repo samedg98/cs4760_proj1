@@ -1,10 +1,8 @@
 # Project 1
 
 # Samed Ganibegovic
-# Operating Systems CS4760
 
-# Assignment 1: Linux System Calls and Library Functions
-# Due: February 11th 2021
+# Linux System Calls and Library Functions
 
 Brief Description:
 The goal of this homework is to become familiar with the environment in hoare while practising system calls
