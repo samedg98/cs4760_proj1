@@ -52,4 +52,4 @@ Was able to get some code to compile - still not the full project but most of it
 
 link to version control:
 
-https://github.com/sg-21/cs4760
+https://github.com/samedg98/project1
