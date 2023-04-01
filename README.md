@@ -35,16 +35,15 @@ Any issues with the program, and/or problems encountered:
 
 I had a lot of trouble with this project, mainly with the breadth first search traversal and the queue.
 I couldn't grasp the concept completely, and I ended up confusing it a bit with depth first search.
-I looked through resources online for help and just kept getting stuck.
-I was able to get the options down, but the project itself does not run.
-I needed to spend more time on this.
+I looked through resources online for help and got something running.
+I was able to get the options down.
 
 
 ********
 
 EDIT: 
 
-Was able to get some code to compile - still not the full project but most of it is complete.
+Was able to get some code to compile.
 
 ********
 
