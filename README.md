@@ -5,7 +5,7 @@
 # Linux System Calls and Library Functions
 
 Brief Description:
-The goal of this homework is to become familiar with the environment in hoare while practising system calls
+The goal of this project is to become familiar with the environment in hoare while practising system calls
 
 bt [-h] [-L -d -g -i -p -s -t -u | -l] [dirname]
 
